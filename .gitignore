@@ -1,0 +1,28 @@
+﻿# Visual Studio
+.vs/
+[Bb]in/
+[Oo]bj/
+x64/
+*.opendb
+*.VC.db
+*.VC.VC.opendb
+*.user
+*.suo
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.venv/
+env/
+venv/
+build/
+dist/
+*.egg-info/
+
+# Editors
+.vscode/
+.idea/
