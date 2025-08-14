@@ -41,14 +41,6 @@ Each artifact demonstrates:
 
 ---
 
-## 🔗 Related Links  
-
-- 🌐 [Professional ePortfolio Website](#) *(link once deployed)*  
-- 🎥 [Capstone Code Review Video](assets/video/CapstoneCodeReview.mp4)  
-- 📄 [Enhanced Artifacts](./)  
-
----
-
 ## 👋 About Me  
 
 Army Veteran • Paramedic turned Software Engineer • Focused on **DevSecOps and secure software development**.  
