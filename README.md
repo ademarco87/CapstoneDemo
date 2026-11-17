@@ -30,6 +30,14 @@ Focus: **Databases & Secure Systems**
 
 ---
 
+## 🔐 Security Note: Committed `.env` Files
+
+The `.env` files in `CapstoneDemoEnhancement1`, `CapstoneDemoEnhancement2`, and `CapstoneDemoEnhancement3` are committed **on purpose** and contain **demo values only**, so reviewers can build and run each artifact without extra setup.
+
+In a real deployment they would be excluded with `.gitignore`, a `.env.example` with placeholder values would be committed instead, and secrets would come from the environment or a secrets manager.
+
+---
+
 ## 🎯 Learning Outcomes  
 
 Each artifact demonstrates:  
@@ -41,7 +49,8 @@ Each artifact demonstrates:
 
 ---
 
-## 👋 About Me  
+## 👋 About Me
 
-Army Veteran • Paramedic turned Software Engineer • Focused on **DevSecOps and secure software development**.  
-This capstone project reflects not just technical ability, but also resilience, adaptability, and a mission-first mindset.  
+Army veteran • EMS operations leader • BS Computer Science (SNHU 2025) • Building toward **DevSecOps**.
+
+Portfolio: [ademarco87.github.io](https://ademarco87.github.io) — includes a before-and-after case study of these artifacts.
